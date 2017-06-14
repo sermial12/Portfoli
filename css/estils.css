@@ -1,0 +1,224 @@
+body{
+    background: #FDF5E6;
+    font-family: sans-serif;
+    color: black;
+}
+
+
+#caixa {
+    width: 1300px;
+    margin: 100px auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#caixaTop {
+    margin-left: 450px;
+    margin-top: 60px;
+}
+
+#index {
+    margin-left: 1250px;
+    margin-top: -30px;
+}
+
+.card-container {
+  cursor: pointer;
+  height: 300px;
+  perspective: 600;
+  position: relative;
+  width: 300px;
+  display: inline-block;
+  margin: 1.5em;
+}
+.card {
+  height: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: all 1s ease-in-out;
+  width: 100%;
+}
+.card:hover {
+  transform: rotateY(180deg);
+}
+.card .side {
+  backface-visibility: hidden;
+  border-radius: 6px;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+}
+.card .back {
+  background: #F3E2A9;
+  color: white;
+  line-height: 300px;
+  text-align: center;
+  transform: rotateY(180deg);
+}
+
+
+
+
+
+
+
+#ilustratorfoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+
+#photoshopfoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#esculturafoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#pixilaciofoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#pixilaciofoto video {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#stopMotionFoto video {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#riggingfoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#texturitzaciofoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#iluminaciofoto img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#animacio2Dfoto {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#videojocs video {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#unityPooou video {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#Aventura {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#PONG1 {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#aboout img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#coontact img {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+
+#robot {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#espasa {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#drac {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#nomuerto {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#demon {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#bazooka {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#mixer {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#lamp {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#salter {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#island {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#x-wing {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#demon {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+#mobilecharge {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
